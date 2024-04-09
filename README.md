@@ -138,6 +138,8 @@ the following levels:
 - **Proficient**: The article demonstrates a proficient level for the criterion.
 - **Exemplary**: The article demonstrates an exemplary level for the criterion.
 
+It is important to note that the primary assessment focus for this article is
+the student-written content that reflects on the use of AI writing assistants.
 Please keep in mind the following reminders as you consider how the course
 instructor will assess whether or not the final version of your project meets
 additional baseline requirements related to, for instance, the use of Markdown:
