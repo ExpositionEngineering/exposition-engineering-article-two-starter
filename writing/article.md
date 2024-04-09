@@ -57,6 +57,6 @@ TODO: You do not need to use the GitHub footnote standard for these references.
 TODO: Write one paragraph that explains your overall experience in using the AI
 writing assistant.
 
-### After this experience, what do you think is the future or writing at Allegheny College?
+### After this experience, what do you think is the future of writing at Allegheny College?
 
 TODO: Write one paragraph that explains your thoughts on the future of writing.
