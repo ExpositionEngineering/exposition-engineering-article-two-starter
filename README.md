@@ -107,7 +107,7 @@ any use of an AI writing assistant. Make sure that you have completed all of the
 required parts of the assignment and your project has a passing build in GitHub
 Actions before the final deadline.
 
-This assignment will be due at the end of the day for **Week Two, Class One**.
+This assignment will be due at the end of the day for **Week One, Class Two**.
 
 ## 🐊 Project Assessment
 
